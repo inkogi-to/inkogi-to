@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there! I'm Nazar
+🚀 Passionate about coding, open-source, and building cool projects!  
 
-<!--
-**inkogi-to/inkogi-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me**  
+- 🔭 Currently working on **[redux-intro](#)**
+- 🌱 Learning **React, Next.js, and AI**
+- 💬 Ask me about **JavaScript, APIs, and Web Development**
+- 📫 Reach me at **kogito.nk@gmail.com**
+- ⚡ Fun fact: I love ☕ and ⛷ !
 
-Here are some ideas to get you started:
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nazar-kobernyk)  
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1DGHfJNSGz/?mibextid=wwXIfr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
