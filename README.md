@@ -2,7 +2,7 @@
 🚀 Passionate about coding, open-source, and building cool projects!  
 
 💡 **About Me**  
-- 🔭 Currently working on **[redux-intro](#)**
+- 🔭 Currently working on **[pizza-app](#)**
 - 🌱 Learning **React, Next.js, and AI**
 - 💬 Ask me about **JavaScript, APIs, and Web Development**
 - 📫 Reach me at **kogito.nk@gmail.com**
