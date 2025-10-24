@@ -2,7 +2,7 @@
 🚀 Passionate Front-End Developer who loves building interactive web apps with **React** and **Next.js**.
 
 ## 💡 About Me  
-- 🔭 Currently working on [**The Wild Oasis**](https://your-live-demo-link.com) — a hotel management app built with **React Query**, **Supabase**, and **Styled Components**.  
+- 🔭 Currently working on [**The Wild Oasis**][(https://your-live-demo-link.com](https://the-wild-oasis-nine-livid.vercel.app/dashboard)) — a hotel management app built with **React Query**, **Supabase**, and **Styled Components**.  
 - 🌱 Learning advanced **React patterns** and exploring **AI-powered apps**.  
 - 💬 Ask me about **JavaScript, APIs, or React architecture**.  
 - ⚡ Fun fact: I’m a coffee-powered coder who loves skiing ⛷️.
@@ -20,13 +20,12 @@
 ---
 
 ## 🧩 Featured Projects
-- 🏨 [**The Wild Oasis**](https://github.com/yourusername/the-wild-oasis) — hotel management dashboard  
-- 🎮 [**QuizMaster**](https://github.com/yourusername/quizmaster) — fun quiz app built with React Hooks  
-- 📊 [**Expense Tracker**](https://github.com/yourusername/expense-tracker) — personal finance tracker  
+- 🏨 [**The Wild Oasis**](https://github.com/inkogi-to/the-wild-oasis) — hotel management dashboard  
+- 🎮 [**QuizMaster**](https://github.com/inkogi-to/quize-pp) — fun quiz app built with React Hooks  
+- 📊 [**Expense Tracker**]([https://github.com/inkogi-to/expense-tracker](https://github.com/inkogi-to/redux-intro)) — personal finance tracker  
 
 ---
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nazar-kobernyk)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://yourportfolio.com)  
 📫 **kogito.nk@gmail.com**
